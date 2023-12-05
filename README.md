@@ -318,14 +318,14 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Thu, Nov 30</td>
-      <td>Static vs dynamic typing, static analysis</td>
+      <td><a href="https://docs.google.com/presentation/d/1v2RUuqW6gMkFu9NdjtlN3rGyuVaxpTIBwprVOAPaVKw/edit?usp=sharing">Static vs dynamic typing, static analysis</a></td>
       <td></td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Tue, Dec 5</td>
-      <td>DevOps</td>
+      <td><a href="https://docs.google.com/presentation/d/1ZqH4ezaFherraPR0clObsHifnBkRQeHVU_ZltEECxK4/edit?usp=sharing">DevOps</a></td>
       <td></td>
     </tr>
     <tr>
